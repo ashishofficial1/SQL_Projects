@@ -63,4 +63,4 @@ left join reasons r
 on a.`Reason for absence` = r.Number;
 
 
-After filtering these data in MYSQL I uploaded these data in Power BI and make a beautiful dashboard.
+After filtering these data in MYSQL I loaded these data in Power BI and make a beautiful dashboard.
